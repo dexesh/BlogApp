@@ -73,6 +73,11 @@ http://localhost:8080/api/blogs/search/title?title=Enviroment&page=0&size=5
 Method:Get
 http://localhost:8080/api/blogs?page=0&size=5
 
+7.To get Blog summary
+Method:Get
+http://localhost:8080/api/blogs/{id}/summary
+
+
 
 
 
